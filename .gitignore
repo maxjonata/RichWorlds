@@ -1,3 +1,7 @@
+# Muddle
+build/
+.output
+
 # Compiled Lua sources
 luac.out
 
