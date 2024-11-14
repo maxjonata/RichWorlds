@@ -23,7 +23,7 @@ jobs:
           prefix: "mfile"
 
       - name: "create version.txt"
-        uses: 1arp/create-a-file-action@v0.4.5
+        uses: 1arp/create-a-file-action@0.4.5
         # see https://github.com/marketplace/actions/create-a-file
         with:
           path: './'
